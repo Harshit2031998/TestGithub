@@ -1,2 +1,2 @@
 # TestGithub
-GitHub tutorial
+TestGithub is a beginner repositery
